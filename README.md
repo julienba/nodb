@@ -1,3 +1,3 @@
 # nodb
 
-A pet project for idea around data. Use at your own risk.
+A pet project for ideas around data.
